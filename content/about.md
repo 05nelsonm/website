@@ -23,7 +23,7 @@ Have both supported and led in team environments. Extremely fast learner,
 picking up on new skills and information easily. Accomplished in developing  
 and implementing solutions to complex technical problems.
 
-## Interested:
+## Interests:
 Kotlin Multiplatform and Android development, digital privacy and security,  
 Bitcoin, carpentry, metalworking, automotive repair, computer networking,  
 computer hardware, electrical systems and design, CAD design, snowboarding.
