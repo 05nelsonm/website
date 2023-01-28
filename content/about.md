@@ -5,9 +5,9 @@ title = "About Me:"
 A Kotlin Multiplatform + Android developer who took the long but scenic  
 route in finding what they absolutely love doing; Software Development.
 
-I left NASA to study full time at University of Maryland for a degree in  
-Mechanical Engineering. After taking an introductory coding class, I was  
-hooked.
+In 2018 I left NASA to study full time at University of Maryland for a  
+degree in Mechanical Engineering. After taking an introductory coding  
+class, I was hooked.
 
 I've always been into building my own computers, networking, running  
 Linux boxes/VMs/Docker containers for various self-hosted services,  
