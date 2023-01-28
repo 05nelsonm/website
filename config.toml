@@ -1,3 +1,47 @@
 baseURL = 'https://matthewnelson.io/'
 languageCode = 'en-us'
 title = 'Matthew Nelson'
+theme = "m10c"
+paginate = 8
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 2
+
+[params]
+
+  author = "Matthew Nelson"
+  description = "Kotlin Multiplatform & Android Software Developer"
+  avatar = "/avatar.jpeg"
+  menu_item_separator = " · "
+  favicon = "/favicon/favicon.ico"
+
+  [[params.social]]
+    icon = "mail"
+    name = "Email"
+    url = "mailto:developer@matthewnelson.io"
+
+  [[params.social]]
+    icon = "lock"
+    name = "PGP: 0x61471B8AB3890961"
+    url = "https://keys.openpgp.org/search?q=0x61471B8AB3890961"
+
+  [[params.social]]
+    icon = "file"
+    name = "Resume"
+    url = "https://cloud.matthewnelson.io/s/SB7r4PQHF7pNqDZ"
+
+  [[params.social]]
+    icon = "github"
+    name = "GitHub"
+    url = "https://github.com/05nelsonm"
