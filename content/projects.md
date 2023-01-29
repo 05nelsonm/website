@@ -65,3 +65,20 @@
   <p>Tools for decompressing and extracting binaries to application file system.</p>
 
 {{< /project >}}
+
+{{< project
+  name="encoding"
+
+  year="2021"
+  type="Kotlin Multiplatform"
+  img="/img/project/kotlin-library.png"
+
+  code="https://github.com/05nelsonm/encoding"
+>}}
+
+  <!-- description -->
+  <p>A Kotlin Multiplatform library for configurable, streamable, efficient and extensible encoding/decoding.</p>
+  <p>Low level abstractions for library consumers to create their own Encoder/Decoder(s).</p>
+  <p>High level implementations for Base16, Base32, Base32 Hex, Base32 Crockford, Base64, Base64 UrlSafe.</p>
+
+{{< /project >}}
