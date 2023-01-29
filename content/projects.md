@@ -114,3 +114,19 @@
   <p>Utilized as a git submodule in other projects.</p>
 
 {{< /project >}}
+
+{{< project
+  name="value-clazz"
+
+  year="2023"
+  type="Kotlin Multiplatform"
+  img="/img/project/kotlin-library.png"
+
+  code="https://github.com/05nelsonm/component-value-clazz"
+>}}
+
+  <!-- description -->
+  <p>A Kotlin Multiplatform library providing a functionally equivalent abstraction to Kotlin's value class.</p>
+  <p>compiles to platform specific code, unlike the Kotlin value class.</p>
+
+{{< /project >}}
