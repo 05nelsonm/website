@@ -24,6 +24,7 @@
   type="Android App"
   img="/img/project/sphinx.png"
 
+  code="https://github.com/stakwork/sphinx-kotlin"
   website="https://sphinx.chat"
 >}}
 
@@ -143,5 +144,20 @@
 
   <!-- description -->
   <p>A Kotlin Multiplatform library to enable usage of android.os.Parcelable from common code.</p>
+
+{{< /project >}}
+
+{{< project
+  name="build-configuration"
+
+  year="2021"
+  type="Kotlin Multiplatform"
+  img="/img/project/kotlin-library.png"
+
+  code="https://github.com/05nelsonm/component-build-configuration"
+>}}
+
+  <!-- description -->
+  <p>A Kotlin Multiplatform library for injecting build configuration information in cross platform environments</p>
 
 {{< /project >}}
