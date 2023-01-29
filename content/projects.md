@@ -158,7 +158,7 @@
 >}}
 
   <!-- description -->
-  <p>A Kotlin Multiplatform library for injecting build configuration information in cross platform environments</p>
+  <p>A Kotlin Multiplatform library for injecting build configuration information in cross platform environments.</p>
 
 {{< /project >}}
 
@@ -173,7 +173,7 @@
 >}}
 
   <!-- description -->
-  <p>A Kotlin Multiplatform framework for processing of requests agnostic of type and purpose, in modularized code bases</p>
+  <p>A Kotlin Multiplatform framework for processing of requests agnostic of type and purpose, in modularized code bases.</p>
 
 {{< /project >}}
 
@@ -188,6 +188,23 @@
 >}}
 
   <!-- description -->
-  <p>A Kotlin Multiplatform library to provide a common, injectable interface for kotlin coroutine dispatchers</p>
+  <p>A Kotlin Multiplatform library to provide a common, injectable interface for kotlin coroutine dispatchers.</p>
+
+{{< /project >}}
+
+{{< project
+  name="TorOnionProxyLibrary"
+
+  year="2020"
+  type="Android"
+  img="/img/project/android-library.png"
+
+  website="https://topl-android.matthewnelson.io"
+  code="https://github.com/05nelsonm/TorOnionProxyLibrary-Android"
+>}}
+
+  <!-- description -->
+  <p>An Android library for embedding Tor into your application.</p>
+  <p>Archived & deprecated in favor of successor library <strong>kmp-tor</strong>.</p>
 
 {{< /project >}}
