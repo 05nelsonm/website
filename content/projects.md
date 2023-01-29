@@ -97,3 +97,20 @@
   <p>A Kotlin Multiplatform library for correctly retrieving cryptographically secure random data from the system.</p>
 
 {{< /project >}}
+
+{{< project
+  name="kotlin-components"
+
+  year="2021"
+  type="Kotlin Multiplatform"
+  img="/img/project/kotlin-library.png"
+
+  website="https://kotlin-components.matthewnelson.io"
+  code="https://github.com/05nelsonm/kotlin-components"
+>}}
+
+  <!-- description -->
+  <p>Custom Gradle plugins and scripts for managing build, publication, and dependencies of Kotlin Multiplatform projects.</p>
+  <p>Utilized as a git submodule in other projects.</p>
+
+{{< /project >}}
