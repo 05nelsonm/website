@@ -82,3 +82,18 @@
   <p>High level implementations for Base16, Base32, Base32 Hex, Base32 Crockford, Base64, Base64 UrlSafe.</p>
 
 {{< /project >}}
+
+{{< project
+  name="secure-random"
+
+  year="2023"
+  type="Kotlin Multiplatform"
+  img="/img/project/kotlin-library.png"
+
+  code="https://github.com/05nelsonm/secure-random"
+>}}
+
+  <!-- description -->
+  <p>A Kotlin Multiplatform library for correctly retrieving cryptographically secure random data from the system.</p>
+
+{{< /project >}}
