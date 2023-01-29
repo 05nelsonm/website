@@ -161,3 +161,18 @@
   <p>A Kotlin Multiplatform library for injecting build configuration information in cross platform environments</p>
 
 {{< /project >}}
+
+{{< project
+  name="coroutines"
+
+  year="2021"
+  type="Kotlin Multiplatform"
+  img="/img/project/kotlin-library.png"
+
+  code="https://github.com/05nelsonm/component-coroutines"
+>}}
+
+  <!-- description -->
+  <p>A Kotlin Multiplatform library to provide a common, injectable interface for kotlin coroutine dispatchers</p>
+
+{{< /project >}}
