@@ -130,3 +130,18 @@
   <p>compiles to platform specific code, unlike the Kotlin value class.</p>
 
 {{< /project >}}
+
+{{< project
+  name="parcelize"
+
+  year="2022"
+  type="Kotlin Multiplatform"
+  img="/img/project/kotlin-library.png"
+
+  code="https://github.com/05nelsonm/component-parcelize"
+>}}
+
+  <!-- description -->
+  <p>A Kotlin Multiplatform library to enable usage of android.os.Parcelable from common code.</p>
+
+{{< /project >}}
