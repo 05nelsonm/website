@@ -33,3 +33,19 @@
   <p>Podcasting 2.0 player</p>
 
 {{< /project >}}
+
+{{< project
+  name="kmp-tor"
+
+  year="2022"
+  type="Kotlin Multiplatform"
+  img="/img/project/kotlin-library.png"
+
+  code="https://github.com/05nelsonm/kmp-tor"
+>}}
+
+  <!-- description -->
+  <p>A Kotlin Multiplatform library for embedding Tor into your application</p>
+  <p>TODO</p>
+
+{{< /project >}}

@@ -5,7 +5,7 @@
   display: flex;
   margin-bottom: 50px;
   max-height: 350px;
-  max-width: 800px;
+  max-width: 700px;
 }
 
 .project-container-text {
@@ -55,6 +55,7 @@
 }
 
 .project-img {
+  background: $lightest-color;
   border-radius: 0px 20px 20px 0px;
   width: 100%;
   height: 100%;
