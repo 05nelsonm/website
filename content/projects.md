@@ -13,7 +13,7 @@
 
   <!-- description -->
   <p>Buy/Sell/Send Bitcoin on-chain and via the Lightning Network.</p>
-  <p>TODO</p>
+  <p>Send Fiat money globally over the Lightning Network.</p>
 
 {{< /project >}}
 
@@ -47,7 +47,7 @@
 
   <!-- description -->
   <p>A Kotlin Multiplatform library for embedding Tor into your application.</p>
-  <p>TODO</p>
+  <p>Abstracts away complexities of Tor to provide library consumers with easy to use APIs</p>
 
 {{< /project >}}
 
