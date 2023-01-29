@@ -45,7 +45,23 @@
 >}}
 
   <!-- description -->
-  <p>A Kotlin Multiplatform library for embedding Tor into your application</p>
+  <p>A Kotlin Multiplatform library for embedding Tor into your application.</p>
   <p>TODO</p>
+
+{{< /project >}}
+
+{{< project
+  name="kmp-tor-binary"
+
+  year="2022"
+  type="Kotlin Multiplatform"
+  img="/img/project/kotlin-library.png"
+
+  code="https://github.com/05nelsonm/kmp-tor-binary"
+>}}
+
+  <!-- description -->
+  <p>A Kotlin Multiplatform library for reproducibly building and distributing Tor binaries.</p>
+  <p>Tools for decompressing and extracting binaries to application file system.</p>
 
 {{< /project >}}
