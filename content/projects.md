@@ -95,7 +95,7 @@
 >}}
 
   <!-- description -->
-  <p>A Kotlin Multiplatform library for correctly retrieving cryptographically secure random data from the system.</p>
+  <p>A Kotlin Multiplatform library for <strong>correctly</strong> retrieving cryptographically secure random data from the system.</p>
 
 {{< /project >}}
 
@@ -128,7 +128,7 @@
 
   <!-- description -->
   <p>A Kotlin Multiplatform library providing a functionally equivalent abstraction to Kotlin's value class.</p>
-  <p>compiles to platform specific code, unlike the Kotlin value class.</p>
+  <p>Compiles to platform specific code, unlike the Kotlin value class.</p>
 
 {{< /project >}}
 
