@@ -100,6 +100,23 @@
 {{< /project >}}
 
 {{< project
+  name="This Website"
+
+  year="2023"
+  type="Hugo/Html"
+  img="/img/project/hugo.png"
+
+  code="https://github.com/05nelsonm/website"
+>}}
+
+  <!-- description -->
+  <p>Leverages use of Hugo to create Html.</p>
+  <p>Custom Html and CSS for this very card you are looking at!</p>
+  <p>Integration with Netlify for publication to my domain.</p>
+
+{{< /project >}}
+
+{{< project
   name="kotlin-components"
 
   year="2021"
