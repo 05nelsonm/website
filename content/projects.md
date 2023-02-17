@@ -100,6 +100,23 @@
 {{< /project >}}
 
 {{< project
+  name="kmp-configuration"
+
+  year="2023"
+  type="Kotlin Multiplatform"
+  img="/img/project/kotlin-library.png"
+
+  code="https://github.com/05nelsonm/gradle-kmp-configuration-plugin"
+>}}
+
+  <!-- description -->
+  <p>A Gradle plugin for configuring Kotlin Multiplatform projects.</p>
+  <p>Automatic configuration of hierarchical source sets.</p>
+  <p>Control build targets via commandline input (great for CI).</p>
+
+{{< /project >}}
+
+{{< project
   name="This Website"
 
   year="2023"
