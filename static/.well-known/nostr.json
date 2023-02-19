@@ -1,5 +1,13 @@
 {
-    "names": {
-        "05nelsonm": "94530f2a7f9a02d4115394de3261af4d69f230e37cab484980c377010b0fea36"
-    }
+  "names": {
+    "05nelsonm": "94530f2a7f9a02d4115394de3261af4d69f230e37cab484980c377010b0fea36",
+    "_": "94530f2a7f9a02d4115394de3261af4d69f230e37cab484980c377010b0fea36"
+  },
+  "relays": {
+    "94530f2a7f9a02d4115394de3261af4d69f230e37cab484980c377010b0fea36": [
+      "wss://relay.snort.social",
+      "wss://relay.damus.io",
+      "wss://relay.nostr.info"
+    ]
+  }
 }
