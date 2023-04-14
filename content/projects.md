@@ -64,6 +64,7 @@
   <!-- description -->
   <p>A Kotlin Multiplatform library for reproducibly building and distributing Tor binaries.</p>
   <p>Tools for decompressing and extracting binaries to application file system.</p>
+  <p>CLI tools for creating and applying detached binary code signatures (Windows/macOS)</p>
 
 {{< /project >}}
 
@@ -85,21 +86,6 @@
 {{< /project >}}
 
 {{< project
-  name="secure-random"
-
-  year="2023"
-  type="Kotlin Multiplatform"
-  img="/img/project/kotlin-library.png"
-
-  code="https://github.com/05nelsonm/secure-random"
->}}
-
-  <!-- description -->
-  <p>A Kotlin Multiplatform library for <strong>correctly</strong> retrieving cryptographically secure random data from the system.</p>
-
-{{< /project >}}
-
-{{< project
   name="kmp-configuration"
 
   year="2023"
@@ -113,6 +99,81 @@
   <p>A Gradle plugin for configuring Kotlin Multiplatform projects.</p>
   <p>Automatic configuration of hierarchical source sets.</p>
   <p>Control build targets via commandline input (great for CI).</p>
+
+{{< /project >}}
+
+{{< project
+  name="hash"
+
+  year="2023"
+  type="Kotlin Multiplatform"
+  img="/img/project/kotlin-library.png"
+
+  code="https://github.com/KotlinCrypto/hash"
+>}}
+
+  <!-- description -->
+  <p>A Kotlin Multiplatform library for hash functions MD5/SHA1/SHA2/SHA3</p>
+
+{{< /project >}}
+
+{{< project
+  name="MACs"
+
+  year="2023"
+  type="Kotlin Multiplatform"
+  img="/img/project/kotlin-library.png"
+
+  code="https://github.com/KotlinCrypto/MACs"
+>}}
+
+  <!-- description -->
+  <p>A Kotlin Multiplatform library for Message Authentication Code functions for Hmac MD5/SHA1/SHA2/SHA3, KMAC</p>
+
+{{< /project >}}
+
+{{< project
+  name="secure-random"
+
+  year="2023"
+  type="Kotlin Multiplatform"
+  img="/img/project/kotlin-library.png"
+
+  code="https://github.com/KotlinCrypto/secure-random"
+>}}
+
+  <!-- description -->
+  <p>A Kotlin Multiplatform library for <strong>correctly</strong> retrieving cryptographically secure random data from the system.</p>
+
+{{< /project >}}
+
+{{< project
+  name="sponges"
+
+  year="2023"
+  type="Kotlin Multiplatform"
+  img="/img/project/kotlin-library.png"
+
+  code="https://github.com/KotlinCrypto/sponges"
+>}}
+
+  <!-- description -->
+  <p>A Kotlin Multiplatform library for sponge functions (Keccak-p)</p>
+
+{{< /project >}}
+
+{{< project
+  name="endians"
+
+  year="2023"
+  type="Kotlin Multiplatform"
+  img="/img/project/kotlin-library.png"
+
+  code="https://github.com/KotlinCrypto/endians"
+>}}
+
+  <!-- description -->
+  <p>A Kotlin Multiplatform library for converting Short/Int/Long to and from BigEndian/LittleEndian bytes</p>
 
 {{< /project >}}
 
